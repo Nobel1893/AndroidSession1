@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">FirstApplication</string>
+    <string name="title_activity_payment">Payment</string>
+    <string name="account">My Account</string>
+    <string name="bytecode">BYTECODE</string>
+    <string name="BankName">Elrajeh Bank</string>
+    <string name="payment_confirm">Payment Confirmation</string>
+    <string name="Done">Done</string>
+    <string name="bank_transfer">Bank Transfer</string>
+    <string name="how_much">How much are you weight ?</string>
+    <string name="next">Next</string>
+    <string name="Name">Name</string>
+    <string name="insertname">insert name</string>
+    <string name="inashnalty">nationality</string>
+    <string name="Nnmber">number</string>
+    <string name="Gende">Gender</string>
+    <string name="email">email</string>
+</resources>
